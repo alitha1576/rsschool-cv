@@ -3,7 +3,7 @@
 80808, Germany, Munich\
 ann.undine@gmail.com
 
-Dedicated and motivated professional with 8 years of experience in website administration, content management, and digital marketing. Transitioning towards a successful career as a Frontend Developer, I bring proficiency in SEO, HTML/CSS and email marketing. Eager to leverage my extensive background in web development, content management, and self-study education in software testing to contribute effectively as a Junior Frontend Developer.
+_Dedicated and motivated professional with 8 years of experience in website administration, content management, and digital marketing. Transitioning towards a successful career as a Frontend Developer, I bring proficiency in SEO, HTML/CSS and email marketing. Eager to leverage my extensive background in web development, content management, and self-study education in software testing to contribute effectively as a Junior Frontend Developer._
 
 ## Skills
 
@@ -49,10 +49,7 @@ EPAM Learn Digital Platform: Software Testing Introduction
 
 - Interaction and correspondence with international clients within the scope of certain projects.
 - Translation and/or adaptation of advertising texts and brochures into Russian.
-- Adding English localization to the website, reading technical documentation, and writing instructions for website usage.
-
-[poseidonexpeditions.com](https://poseidonexpeditions.com/)\
-[vodohod-cruises.com](https://vodohod-cruises.com/)
+- Adding English localization to the website, reading technical documentation, and writing instructions for website usage: [poseidonexpeditions.com](https://poseidonexpeditions.com/), [vodohod-cruises.com](https://vodohod-cruises.com/).
 
 
 
