@@ -7,16 +7,22 @@ Dedicated and motivated professional with 8 years of experience in website admin
 
 ## Skills
 
-- Proficient in HTML, CSS.
-- Experienced in working with various Content Management Systems.
-- Experienced in functional testing, test case design, manual testing,
-and defect tracking.
+- HTML, CSS
+- Basic knowledge of Python
+- Work with various Content Management Systems
+- Functional testing, test case design, manual testing, defect tracking
+
+## Code examples
+
+[Freecodecamp course](https://www.freecodecamp.org/certification/fcc8fb64635-805d-40ec-a262-1c205471e82b/responsive-web-design)
+
+[Lagoona project](https://github.com/alitha1576/testproject-lagoona/)
 
 ## Experience
 
 **Frontend Development Projects:**
 
-- Completed projects during educational courses in HTML/CSS from Freecodecamp and Python Basics Course from JetBrains Academy.
+- Completed projects during educational courses in HTML/CSS from Freecodecamp and Python Basics Course from [JetBrains Academy](https://hyperskill.org/certificates/330f04e1-4cc8-48dd-b831-defe99ca0672.pdf).
 - Independently designed and developed landing pages based on Figma mockups.
 
 **Content Manager - Advertising Agencies:**
