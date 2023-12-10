@@ -112,12 +112,16 @@ h2 {
 .button {
   width: 200px;
   height: 64px;
-  padding: 20px, 78px, 20px, 78px;
   border-radius: 100px;
   border-style: none;
   font-weight: 600;
   margin-top: 40px;
   font-size: 16px;
+  display: inline-block;
+  text-align: center;
+  line-height: 32px;
+  padding: 16px;
+
 }
 
 .menu-button {
@@ -181,14 +185,20 @@ section {
 }
 
 .download-button {
-  background-color: white;
-  border: 1px;
-  border-color: #403F3D;
+  border: 1px solid #403F3D;
   line-height: normal;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
+}
+
+.download-button-text {
+  flex: 1 1 100%;
+}
+
+.download-button img {
+  flex: 0 0 auto;
 }
 
 .download-button:hover {
@@ -229,7 +239,7 @@ section {
   justify-content: center;
 }
 
-.tab {
+.menu-tab {
   background-color: #E1D4C9;
   border: 1px solid #403F3D;
   line-height: normal;
@@ -237,6 +247,18 @@ section {
   flex-direction: row;
   align-items: center;
   justify-content: center;
+  width: auto;
+  margin-right: 16px;
+}
+
+.menu-tab.active {
+  background-color: #665F55;
+  color: #E1D4C9;
+  cursor: default;
+}
+
+.menu-tab img {
+  margin-right: 8px;
 }
 
 .carts {
@@ -262,4 +284,8 @@ section {
 
 .padding-left {
   padding-left: 12px;
+}
+
+.footer-contact a {
+  color: #E1D4C9;
 }
