@@ -1,0 +1,77 @@
+body {
+    background-color: #eee2dc;
+    font-size: 18px;
+    margin: 0;
+    padding: 0 130px 70px 130px;
+    box-sizing: border-box;
+
+}
+
+header {
+    overflow: hidden;
+    padding: 0;
+}
+
+.main-menu {
+    font-size: 1.2em;
+    background-color: #EDC7B7;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 20px 10%;
+    flex-wrap: wrap;
+}
+
+.main-menu li {
+    padding-left: 25px;
+}
+
+.main-menu a {
+    color: black;
+    font-weight: 700;
+}
+
+a {
+    text-decoration: none;
+}
+
+section {
+    margin-top: 50px;
+}
+
+.main {
+    display: flex;
+    margin-top: 70px;
+}
+
+.photo {
+    border-radius: 50%;
+    width: 15em;
+}
+
+.main-description {
+    padding: 0 45px;
+}
+
+.skills {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.main-menu, .skills li {
+    list-style-type: none;
+}
+
+
+.skills li {
+    width: 35%;
+    height: 7em;
+}
+
+.icons {
+    width: 60px;
+}
+
+.logo-rss {
+    width: 100px;
+}
