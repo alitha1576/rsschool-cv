@@ -6,7 +6,7 @@
 
 **Location:** Munich, Germany
 
-**E-mail:** alitha@uandex.ru
+**E-mail:** alitha@yandex.ru
 
 **Telegram:** @alitha1
 
@@ -18,7 +18,7 @@
 
 Specialist with 8+ years of experience in CMS content management. Strong background in updating enterprise websites, website support, participation in the development of new websites and adding updates to existing ones, creation of email newsletters.
 
-Experience with websites in the role of a content manager sparked my strong interest in the IT field, particularly in web development. Completing courses in HTML/CSS and basic JavaScript made me realize that I want to continue learning and pursue a successful career in this field.
+Experience with websites in the role of a content manager sparked my strong interest in the IT field, particularly in web development. Completing courses in HTML/CSS and JavaScript made me realize that I want to continue learning and pursue a successful career in this field.
 
 ----
 
@@ -61,6 +61,7 @@ Medcongress, Moscow, Russia / umedp.ru
 
 ### Courses
 
+[The Rolling Scopes School - JS/FE PRE-SCHOOL 2024Q2 (JAVASCRIPT)] (https://app.rs.school/certificate/c4mzpp57)
 - [Freecodecamp](https://www.freecodecamp.org/certification/fcc8fb64635-805d-40ec-a262-1c205471e82b/responsive-web-design)
 - Codeacademy
 - JetBrains Academy
