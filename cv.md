@@ -61,7 +61,7 @@ Medcongress, Moscow, Russia / umedp.ru
 
 ### Courses
 
-[The Rolling Scopes School - JS/FE PRE-SCHOOL 2024Q2 (JAVASCRIPT)] (https://app.rs.school/certificate/c4mzpp57)
+- [The Rolling Scopes School - JS/FE PRE-SCHOOL 2024Q2 (JAVASCRIPT)] (https://app.rs.school/certificate/c4mzpp57)
 - [Freecodecamp](https://www.freecodecamp.org/certification/fcc8fb64635-805d-40ec-a262-1c205471e82b/responsive-web-design)
 - Codeacademy
 - JetBrains Academy
